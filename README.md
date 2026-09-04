@@ -1,4 +1,4 @@
-# Hi there, I'm Rimas Almalki 👋
+# Hi there, I'm Remas Almalki 👋
 
 ### 🔬 About Me
 I'm a versatile **Data Scientist** passionate about the entire data ecosystem. My work covers everything from deep-dive **Data Analysis** and actionable business insights to building scalable **Machine Learning**, **Deep Learning**, and intelligent end-to-end data solutions.
